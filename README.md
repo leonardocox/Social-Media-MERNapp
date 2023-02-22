@@ -1,3 +1,5 @@
+## ERD Diagrams
+
 # Post
 
 |     Object      |      Relation      |
@@ -28,3 +30,14 @@
 |  occupation   |    String     |
 | viewedProfile |    Number     |
 |  impressions  |    Number     |
+
+# Friend (Sub Doc)
+
+|   Object    |  Relation  |
+| :---------: | :--------: |
+|    \_id     |   String   |
+|  firstName  |   String   |
+|  lastName   |   String   |
+| picturePath | String Ref |
+| occupation  |   String   |
+|  location   |   String   |
