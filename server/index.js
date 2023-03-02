@@ -67,5 +67,6 @@ mongoose
     /* ADD DATA ONE TIME */
     //User.insertMany(users);
     //Post.insertMany(posts);
+    // ayo?
   })
   .catch((error) => console.log(`${error} did not connect`));
