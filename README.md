@@ -1,4 +1,4 @@
-# ERD Diagrams
+## ERD Diagrams
 
 # Post
 
