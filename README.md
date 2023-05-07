@@ -1,6 +1,6 @@
 ### ERD Diagrams
 
-# Post
+## Post
 
 |     Object      |      Relation      |
 | :-------------: | :----------------: |
@@ -15,7 +15,7 @@
 |      likes      | Object<String Ref> |
 |    comments     |   Array<String>    |
 
-# User
+## User
 
 |    Object     |   Relation    |
 | :-----------: | :-----------: |
